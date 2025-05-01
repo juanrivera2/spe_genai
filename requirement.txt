@@ -2,5 +2,5 @@ Pillow
 openai
 opencv-python-headless==4.9.0.80
 numpy
-streamlit
+streamlit==1.33.0
 request
