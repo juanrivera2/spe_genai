@@ -1,6 +1,6 @@
 Pillow
 openai
-opencv
+opencv-python==4.9.0.80
 numpy
 streamlit
 request
