@@ -1,6 +1,6 @@
 Pillow
 openai
-opencv-python>=4.7.0.68
+opencv-python-headless
 numpy
 streamlit
 request
